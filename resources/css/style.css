@@ -1,0 +1,12 @@
+
+html{
+    font-family: "Lato", "Helvetica Neue", helvetica, sans-serif;
+}
+
+/*------------ Header---------------*/
+
+header{
+    position: fixed;
+    display: flex;
+
+}
